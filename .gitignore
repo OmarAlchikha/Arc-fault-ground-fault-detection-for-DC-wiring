@@ -1,3 +1,7 @@
+# Personal notes — never pushed
+PRIVATE_TODO.md
+PRIVATE_WALKTHROUGH.md
+
 # generated test vectors (regenerate with sim/export_test_vectors.py)
 test/vectors/
 test/host_test
